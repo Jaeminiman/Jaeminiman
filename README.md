@@ -1,5 +1,5 @@
 ## Jaemin's Construction Innovation Repository
-![Static Badge](https://img.shields.io/badge/Jaeminiman-Innovative-blue%3Flogo%3Dfacebook)
+![Static Badge](https://img.shields.io/badge/Jaemini-Innovation-blue?logo=apple)
 
 
 ### :octocat: 안녕하세요? 건설혁신연구실 신제민입니다 🐱

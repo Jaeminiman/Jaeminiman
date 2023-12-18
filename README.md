@@ -1,6 +1,5 @@
 ## Jaemin's Construction Innovation Repository
 
-**Jaeminiman/Jaeminiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### :octocat: 안녕하세요? 건설혁신연구실 신제민입니다 🐱
 
